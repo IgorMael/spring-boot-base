@@ -1,4 +1,4 @@
-package br.ufg.labtime.notifica.dto.user;
+package br.ufg.labtime.ponto.dto.user;
 
 import com.google.gson.annotations.Expose;
 import lombok.Getter;

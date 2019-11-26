@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationListener=\
+  br.ufg.labtime.ponto.bash.AppStartingListener,\
+  br.ufg.labtime.ponto.bash.AppStartedListener,\
+  br.ufg.labtime.ponto.bash.AppFailedListener,\
+  br.ufg.labtime.ponto.bash.PortListener

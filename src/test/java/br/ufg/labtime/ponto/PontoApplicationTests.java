@@ -1,4 +1,4 @@
-package br.ufg.labtime.notifica;
+package br.ufg.labtime.ponto;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

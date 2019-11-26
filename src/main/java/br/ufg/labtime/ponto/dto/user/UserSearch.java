@@ -1,7 +1,7 @@
-package br.ufg.labtime.notifica.dto.user;
+package br.ufg.labtime.ponto.dto.user;
 
-import br.ufg.labtime.notifica.dto.BaseSearch;
-import br.ufg.labtime.notifica.model.type.Situation;
+import br.ufg.labtime.ponto.dto.BaseSearch;
+import br.ufg.labtime.ponto.model.type.Situation;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,6 +1,6 @@
-package br.ufg.labtime.notifica.dto.user;
+package br.ufg.labtime.ponto.dto.user;
 
-import br.ufg.labtime.notifica.model.User;
+import br.ufg.labtime.ponto.model.User;
 import org.springframework.data.jpa.domain.Specification;
 
 import javax.persistence.criteria.Predicate;
